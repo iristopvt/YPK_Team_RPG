@@ -52,7 +52,7 @@ Component
 
 ### 🧠 NPC AI 및 적대 관계 처리
 - NPC AIController 구현
-- 적대적 NPC가 피해를 받으면 Blackboard 상태 변경
+- 적대관계 NPC가 피해를 받으면 Blackboard 상태 변경
 - AI와 Player 간 상호작용 설정
 
 
